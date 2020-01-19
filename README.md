@@ -1,4 +1,4 @@
-# openDrive
+# openDriveView
 open and view a .xodr file in python
 
 # Data formats
