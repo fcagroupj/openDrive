@@ -4,7 +4,7 @@
 #
 
 # classs for spiral
-class COdrSpiral:
+class OdrSpiral:
     def __init__(self):
         self.sn = [-2.99181919401019853726E3,
              7.08840045257738576863E5,
