@@ -15,7 +15,7 @@
 
 from __future__ import print_function
 # class for opendriveview
-class runOpendriveView(object):
+class COpendriveView(object):
     ## the start entry of this class
     def __init__(self):
         pass
